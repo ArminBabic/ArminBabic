@@ -1,6 +1,9 @@
 ### Hi there,I am Armin Babic [Web Developer] 👋
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArminBabic)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 🔭 I’m currently working on Front-end web development.
 - 🌱 I’m currently learning Back-end with JAVA.
 - 👯 I’m looking to collaborate with other developers.
