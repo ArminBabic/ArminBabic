@@ -1,5 +1,21 @@
 ### Hi there,I am Armin Babic [Web Developer] 👋
 
+### Hi there 👋, my name is Armin
+#### I am front-end Web Developer.
+![I am front-end Web Developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I am Armin Babic,Web Application developer.
+Do we know each other?No?
+Lets get in touch to exchanges ideas,work on fabulous projects,chat about life,play chess...
+
+
+- 🔭 I’m currently working with React.js
+
+
+
+
+
+
 
 
 - 🔭 I’m currently working on Front-end web development.
