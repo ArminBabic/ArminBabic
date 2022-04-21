@@ -8,7 +8,7 @@
 
 <img align="left" alt="HTML5" width="auto" hwight="70px" src="https://user-images.githubusercontent.com/91044351/164510219-7225841e-36c4-4e3d-b1dc-a120d274c194.png" style="padding-right:10px;" />
 
-![banner](https://user-images.githubusercontent.com/91044351/164510219-7225841e-36c4-4e3d-b1dc-a120d274c194.png)
+
 
 
 ### Languages and Tools:
