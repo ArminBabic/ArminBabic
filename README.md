@@ -8,7 +8,7 @@
 
 <br/>
 
-<img align="center" alt="HTML5" width="800px" height="300px" src="https://user-images.githubusercontent.com/91044351/164630535-574ae20f-ce90-40d7-96d5-482291d0578d.png" style="padding-right:10px;" />
+![newpic](https://user-images.githubusercontent.com/91044351/164633950-9e0dd5f1-bef1-42d3-921f-9135555100ed.png)
 
 <br/>
 
@@ -26,4 +26,4 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 
 
-![newpic](https://user-images.githubusercontent.com/91044351/164633950-9e0dd5f1-bef1-42d3-921f-9135555100ed.png)
+
