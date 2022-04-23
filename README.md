@@ -1,5 +1,5 @@
 ### Hi there,I am Armin Babic [Web Developer] 👋
-<img align="right" alt="HTML5" width="326px" src="https://user-images.githubusercontent.com/91044351/164947806-d563c804-9130-4dd8-8b97-d5f78bcabd99.png" style="padding-left:10px;" />
+- <img align="right" alt="HTML5" width="326px" src="https://user-images.githubusercontent.com/91044351/164947806-d563c804-9130-4dd8-8b97-d5f78bcabd99.png" style="padding-left:10px;" />
 - 🔭 I’m currently working on Front-end web development.
 - 🌱 I’m currently learning Back-end with JAVA.
 - 👯 I’m looking to collaborate with other developers.
