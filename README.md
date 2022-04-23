@@ -5,6 +5,8 @@
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2022 Goals:to become FullStack Web developer.
 - ⚡ Fun fact: I write poems,play chess.
+- 
+![df-removebg-preview](https://user-images.githubusercontent.com/91044351/164947806-d563c804-9130-4dd8-8b97-d5f78bcabd99.png)
 
 <br/>
 
