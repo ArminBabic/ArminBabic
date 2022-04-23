@@ -3,9 +3,10 @@
 - 🔭 I’m currently working on Front-end web development.
 - 🌱 I’m currently learning Back-end with JAVA.
 - 👯 I’m looking to collaborate with other developers.
+- - <img align="right" alt="HTML5" width="226px" src="https://user-images.githubusercontent.com/91044351/164947806-d563c804-9130-4dd8-8b97-d5f78bcabd99.png" style="padding-left:10px;" />
 - 🥅 2022 Goals:to become FullStack Web developer.
 - ⚡ Fun fact: I write poems,play chess.
-- <img align="right" alt="HTML5" width="226px" src="https://user-images.githubusercontent.com/91044351/164947806-d563c804-9130-4dd8-8b97-d5f78bcabd99.png" style="padding-left:10px;" />
+
 
 
 <br/>
