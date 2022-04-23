@@ -9,7 +9,8 @@
 
 <br/>
 
-![newpic](https://user-images.githubusercontent.com/91044351/164633950-9e0dd5f1-bef1-42d3-921f-9135555100ed.png)
+![github-removebg-preview](https://user-images.githubusercontent.com/91044351/164948000-05928520-9d19-490d-ab71-6fc32297482c.png)
+
 
 <br/>
 
