@@ -1,6 +1,6 @@
 ### Hi there,I am Armin Babic [Web Developer] 👋
 
--  🔭 I’m currently working on Front-end web development. <img align="right" alt="HTML5" width="326px" src="https://user-images.githubusercontent.com/91044351/164947806-d563c804-9130-4dd8-8b97-d5f78bcabd99.png" style="padding-left:10px;" /> 
+- 🔭 I’m currently working on Front-end web development. 
 - 🌱 I’m currently learning Back-end with JAVA.
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2022 Goals:to become FullStack Web developer.
@@ -12,7 +12,7 @@
 
 ![github-img](https://user-images.githubusercontent.com/91044351/164948065-e23d8f11-c697-436c-8f25-1c087f6c4082.png)
 
-
+<img align="right" alt="HTML5" width="326px" src="https://user-images.githubusercontent.com/91044351/164947806-d563c804-9130-4dd8-8b97-d5f78bcabd99.png" style="padding-left:10px;" /> 
 
 <br/>
 
