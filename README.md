@@ -9,10 +9,11 @@
 
 
 <br/>
+<img align="right" alt="HTML5" width="326px" src="https://user-images.githubusercontent.com/91044351/164947806-d563c804-9130-4dd8-8b97-d5f78bcabd99.png" style="padding-left:10px;" /> 
+
 
 ![github-img](https://user-images.githubusercontent.com/91044351/164948065-e23d8f11-c697-436c-8f25-1c087f6c4082.png)
 
-<img align="right" alt="HTML5" width="326px" src="https://user-images.githubusercontent.com/91044351/164947806-d563c804-9130-4dd8-8b97-d5f78bcabd99.png" style="padding-left:10px;" /> 
 
 <br/>
 
