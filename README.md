@@ -30,7 +30,7 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 
-<img align="left" alt="Node" width="26px" src="![node](https://user-images.githubusercontent.com/91044351/172022605-da11f10c-d55e-432d-b0b6-ffbb08199c67.png)
+<img align="left" alt="Node" width="26px" src="https://commons.wikimedia.org/wiki/File:Node.js_logo_2015.svg
 " style="padding-right:10px;" />
 <img align="left" alt="Node" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
 
