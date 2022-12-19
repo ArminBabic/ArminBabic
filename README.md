@@ -33,7 +33,7 @@
 <img align="left" alt="Node" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg" style="padding-right:10px;" />
 <img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Next.js" width="32px" src="https://user-images.githubusercontent.com/91044351/208380728-8b0c6eed-83bd-4c20-88a4-36fa3dd39b1f.png" style="padding-right:10px;" />
+<img align="left" alt="Next.js" width="40px" src="https://user-images.githubusercontent.com/91044351/208380728-8b0c6eed-83bd-4c20-88a4-36fa3dd39b1f.png" style="padding-right:10px;" />
 
 
 
