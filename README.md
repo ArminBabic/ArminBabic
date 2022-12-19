@@ -33,5 +33,6 @@
 <img align="left" alt="Node" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg" style="padding-right:10px;" />
 <img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
 
+<img align="left" alt="Express" width="26px" src="https://freeicons.io/vector-and-svg-logos-icons-13/nextjs-icon-8814" style="padding-right:10px;" />
 
 
