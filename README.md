@@ -35,5 +35,5 @@
 
 <img align="left" alt="Next.js" width="26px" src="https://user-images.githubusercontent.com/91044351/208380728-8b0c6eed-83bd-4c20-88a4-36fa3dd39b1f.png" style="padding-right:10px;" />
 
-![next](https://user-images.githubusercontent.com/91044351/208380728-8b0c6eed-83bd-4c20-88a4-36fa3dd39b1f.png)
+
 
