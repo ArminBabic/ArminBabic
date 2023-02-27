@@ -1,9 +1,9 @@
 ### Hi there,I am Armin Babic [Web Developer] 👋
 
 - 🔭 I’m currently working on Front-end web development. 
-- 🌱 I’m currently learning Back-end with JAVA.
+- 🌱 I’m currently learning Back-end with Node.js,Express.js.
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2022 Goals:to become FullStack Web developer.
+- 🥅 2023 Goals:to become FullStack Web developer.
 - ⚡ Fun fact: I write poems,play chess.
 
 
